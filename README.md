@@ -5,7 +5,7 @@ Basic JavaScript web application that returns the number of characters in any us
 http://linkevin.me/character-count-tool-bootstrap-javascript/
 
 **Notice**  
-This application is designed specifically to not consider newlines as characters. 
+This application is designed specifically to not consider _newlines_ as characters. 
 
 ```
 line1
@@ -14,7 +14,7 @@ line2
 
 Should thus return as 10 (characters) and not 12.
 
-```
+```javascript
      /*
         New line should not be counted as a character (or 2)
         Replacing:
