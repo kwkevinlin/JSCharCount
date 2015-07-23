@@ -1,5 +1,5 @@
 # JSCharCount
-Basic JavaScript web application that returns the number of characters in any user-generated input
+Character Count Tool web application built using Bootstrap and JavaScript
 
 **Detailed documentary please read:**  
 http://linkevin.me/character-count-tool-bootstrap-javascript/
